@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ionic Conference Application
 
 This is the official Ionic demo app, showcasing a variety of Ionic Framework components and native features.
@@ -206,6 +205,3 @@ ionic-conference-app/
 ├── tsconfig.json                       * Defines the root files and the compiler options
 ├── tslint.json                         * Defines the rules for the TypeScript linter
 ```
-=======
-# MobileApp
->>>>>>> 15a2fcc4d868e4ff31a34b29ba241a0e3c1523fe

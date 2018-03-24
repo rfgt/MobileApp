@@ -1,0 +1,8 @@
+{
+  "name": "theOne",
+  "app_id": "dfca55fc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
